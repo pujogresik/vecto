@@ -1,7 +1,5 @@
 # Intercom
 
-##My Trace Wallet : trac1m6d4s6gh054vk0ql8xq07rx6vhhkcr73rxkf36jupw9sg9mck9ds0ualhl
-
 This repository is a reference implementation of the **Intercom** stack on Trac Network for an **internet of agents**.
 
 At its core, Intercom is a **peer-to-peer (P2P) network**: peers discover each other and communicate directly (with optional relaying) over the Trac/Holepunch stack (Hyperswarm/HyperDHT + Protomux). There is no central server required for sidechannel messaging.
@@ -16,6 +14,9 @@ Additional references: https://www.moltbook.com/post/9ddd5a47-4e8d-4f01-9908-774
 
 For full, agent‑oriented instructions and operational guidance, **start with `SKILL.md`**.  
 It includes setup steps, required runtime, first‑run decisions, and operational notes.
+
+## My Trace Wallet : trac1m6d4s6gh054vk0ql8xq07rx6vhhkcr73rxkf36jupw9sg9mck9ds0ualhl
+
 
 ## Awesome Intercom
 
